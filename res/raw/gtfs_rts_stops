@@ -1,0 +1,108 @@
+1,'1','Table Rock',43.07838,-79.07946
+2,'2','Queen Victoria Pk',43.08428,-79.07715
+3,'3','Hornblower Niagara Cruises',43.08866,-79.07446
+4,'4','Clifton Hl',43.09056,-79.07076
+5,'5','Bed + Breakfast',43.10149,-79.06302
+6,'6','White Water Walk',43.11069,-79.06033
+7,'7','Whirlpool Aero Car',43.11785,-79.06877
+8,'8','White Water Walk',43.11096,-79.06063
+9,'9','Bed + Breakfast',43.10185,-79.063
+10,'10','Bird Kingdom',43.09242,-79.06842
+11,'11','Clifton Hl',43.09034,-79.07129
+13,'13','Hornblower Niagara Cruises',43.08939,-79.07323
+14,'14','Queen Victoria Pk',43.08356,-79.07748
+18,'18','Floral Showhouse',43.07306,-79.07534
+20,'20','Niagara Gln',43.12952,-79.06049
+21,'21','Butterfly Conservatory',43.13578,-79.05463
+22,'22','Floral Clock',43.14895,-79.04769
+23,'23','Queenston Hts',43.16006,-79.05106
+31,'31','Sir Adam Beck',43.14731,-79.0451
+33,'33','Whirlpool Golf',43.12493,-79.07127
+34,'34','Floral Showhouse',43.07218,-79.07503
+35,'35','Souvenir City',43.11301,-79.06185
+36,'36','Rapidsview North',43.06807,-79.06448
+102,'102','Bus Terminal',43.10799,-79.0635
+103,'103','City Hall',43.10668,-79.065
+106,'106','Queen St + St Lawrence Ave',43.10667,-79.07018
+152,'152','Convention Ctr',43.07673,-79.08369
+189,'189','City Hall',43.10667,-79.0643
+192,'192','VIA/GO Train Sta',43.10874,-79.06313
+193,'193','Bridge St + River Rd',43.10887,-79.06046
+204,'204','Ferry St + Super 8',43.08957,-79.08881
+206,'206','Niagara Falls History Museum',43.08954,-79.09182
+268,'268','Ferry St + Main St. (S/W)',43.08944,-79.09305
+270,'270','Ferry St + Allendale (S/E)',43.08951,-79.08594
+282,'282','Queen St + St Lawrence Ave',43.10664,-79.07032
+285,'285','Lundy''s Ln + Drummond Rd',43.08951,-79.09756
+286,'286','Lundys Ln + Leonard',43.08945,-79.1001
+287,'287','Lundy''s Ln + Best Western',43.08943,-79.10212
+288,'288','Lundys Ln + Byng',43.08939,-79.10482
+290,'290','Lundy''s Ln + Corwin (North Side)',43.08933,-79.10827
+291,'291','Lundy''s Ln + Dorchester Rd',43.08932,-79.11031
+293,'293','Lundys Ln + Royal Mnr',43.08924,-79.11707
+294,'294','Lundy''s Ln + Canada One Factory Outlets',43.08915,-79.11971
+295,'295','Lundy''s Ln + Montrose Rd',43.08909,-79.12226
+296,'296','Lundy''s Ln + Beaverdams Rd',43.08905,-79.1252
+297,'297','Lundys Mnr',43.08901,-79.12897
+298,'298','Lundy''s Ln + Carriage House',43.08896,-79.13191
+331,'331','Lundy''s Ln +Greycliff Mnr',43.08889,-79.13438
+332,'332','Lundy''s Ln + Carriage House',43.08891,-79.1301
+333,'333','Lundy''s Ln + Lundy Mnr',43.08897,-79.12822
+334,'334','Niagara Lodge + Suites',43.08897,-79.12542
+335,'335','Lundy''s Ln + Montrose Rd',43.08901,-79.12257
+336,'336','Lundy''s Ln + Factory Outlets',43.08902,-79.11964
+337,'337','Lundys Ln + Royal Mnr',43.08912,-79.1173
+338,'338','Lundy''s Ln + Brookfield',43.08921,-79.11345
+339,'339','Lundy''s Ln + Dorchester Rd',43.08919,-79.11072
+340,'340','Lundys Ln + Corwin',43.08928,-79.10876
+341,'341','Lundys Ln + Carlton',43.08932,-79.10616
+342,'342','Lundys Ln + Glenholme',43.08936,-79.1034
+343,'343','Lundy''s Ln + Best West Cairn Crft',43.08937,-79.10096
+344,'344','Lundy''s Ln + Drummond Rd',43.08939,-79.09798
+577,'577','Stanley Ave + Convention Ctr',43.07623,-79.08393
+581,'581','Portage Rd + Marineland',43.06598,-79.07255
+596,'596','Portage Rd + Marineland',43.0661,-79.07187
+622,'622','Stanley Ave + DoubleTree Hotel',43.08698,-79.08465
+684,'684','Lundy''s Ln + KOA Kampground',43.08823,-79.14624
+685,'685','Lundy''s Ln + Americana Hotel',43.08874,-79.13958
+725,'725','Queen St + River Rd',43.10665,-79.06147
+870,'870','Clifton Hl/Hornblower Niagara Cruises',43.08999,-79.0728
+871,'871','Table Rock',43.07809,-79.07971
+873,'873','Fallsview Blvd + Marriott Hotel',43.0776,-79.08206
+874,'874','Fallsview Blvd + Oakes Hotel',43.08061,-79.08263
+875,'875','Fallsview Blvd + Fallsview Casino',43.08299,-79.08285
+877,'877','Pyramid Pl',43.08638,-79.08163
+880,'880','Lundy''s Ln + KOA Kampground',43.08879,-79.14247
+881,'881','Scott''s Tent + Trailer Pk',43.08828,-79.14658
+882,'882','Lundy''s Ln + Campark Turnaround',43.0862,-79.15628
+894,'894','Ferry St + Gladstone Ave (S/W)',43.08951,-79.08776
+895,'895','Ferry + Allendale (North Side)',43.08957,-79.0863
+917,'917','Victoria Ave',43.09321,-79.07422
+922,'922','Falls Ave + Sheraton On The Falls',43.0912,-79.07195
+923,'923','Victoria Ave + Clifton Hl',43.09162,-79.07702
+924,'924','Howard Johnson/Frewin Theatre',43.08997,-79.07971
+925,'925','Ferry St + Fallsview Blvd',43.08962,-79.08351
+926,'926','Stanley Ave + Ramada Hotel',43.0872,-79.08481
+927,'927','Ferry St + Super 8',43.08951,-79.08953
+928,'928','Skylon Tower',43.08649,-79.0799
+929,'929','Robinson St + Wyndham Gdn Hotel',43.08627,-79.08407
+930,'930','Hilton Hotel/Fallsview Casino',43.08254,-79.08284
+932,'932','Embassy Suites Hotel/Tower Hotel',43.07922,-79.0826
+933,'933','Niagara Falls Museum',43.08951,-79.09102
+935,'935','Murray St + Fallsview Casino',43.08349,-79.08223
+936,'936','Lunday''s Ln + Kalar Rd',43.08875,-79.13636
+938,'938','Lundy''s Ln + Kalar Rd',43.08896,-79.136
+939,'939','Lundy''s Ln + Americana Resort',43.08885,-79.13982
+940,'940','Clifton Hl/Hornblower Niagara Cruises',43.09002,-79.07255
+950,'950','Convention Ctr',43.07684,-79.08468
+951,'951','Casino Niagara',43.09313,-79.07314
+959,'959','Lundy''s Ln + KOA Campground',43.08868,-79.14238
+960,'960','Clift. Hl/Oneida Ln',43.0916,-79.07527
+961,'961','Old Stone Inn',43.08665,-79.08154
+962,'962','Fallsview Blvd + Robinson St',43.08594,-79.08312
+963,'963','Best Western Fallsview',43.08356,-79.08322
+965,'965','Four Points Sheraton',43.08176,-79.08278
+967,'967','Copacabana',43.07964,-79.08257
+980,'980','Starbucks',43.08219,-79.08276
+100284,'CD2','Lundy''s Ln + Brookfield (North Side)',43.08926,-79.11324
+100290,'','Lundy''s Ln + Brookfield (North Side)',43.0783,-79.08409
