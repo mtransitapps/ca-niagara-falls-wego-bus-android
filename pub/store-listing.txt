@@ -5,7 +5,7 @@ Niagara Falls WEGO Bus for MonTransit BETA.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from May 7, 2014 to August 7, 2014.
+Schedule from October 11, 2016 to May 18, 2017.
 Tweets from @wegoniagara.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
