@@ -1,14 +1,3 @@
-Title: Niagara Falls WEGO Bus - MonTransit
-----------
-Short description:
-Niagara Falls WEGO Bus for MonTransit.
-Schedule. News.
-----------
-What's new in this version?:
-Schedule from September 2, 2019 to January 5, 2020.
-Tweets from @WEGONiagara.
-----------
-Full description:
 This app adds Niagara Falls WEGO buses information to MonTransit.
 
 This app provides the buses schedule and news from @WEGONiagara on Twitter.
@@ -17,7 +6,7 @@ WEGO buses serve Niagara Falls and Niagara-on-the-Lake in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -31,17 +20,3 @@ This app is not related with WEGO and the Region of Niagara.
 
 Permissions:
 - Other: required to read news from Twitter.
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-niagara-falls-wego-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone:
-----------
-Privacy Policy:
