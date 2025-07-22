@@ -41,7 +41,7 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
-        <!--
+        <!-- inactive since 2017
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
