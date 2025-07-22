@@ -4,19 +4,10 @@
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="twitter_color">@string/gtfs_rts_color</string>
     <string-array name="twitter_screen_names">
-        <!-- <item>wegoniagara</item> -->
+        <!-- <item>wegoniagara</item> --><!-- inactive since 2017 -->
     </string-array>
     <string-array name="twitter_screen_names_id">
         <!-- <item>703312440</item> -->
-    </string-array>
-    <string-array name="twitter_screen_names_lang">
-        <!-- <item>@string/news_provider_language_unknown_show_all</item> -->
-    </string-array>
-    <string-array name="twitter_screen_names_colors">
-        <!-- <item>@string/twitter_color</item> -->
-    </string-array>
-    <string-array name="twitter_screen_names_target">
-        <!-- <item>@string/twitter_target_for_poi_authority</item> -->
     </string-array>
     <integer-array name="twitter_screen_names_severity">
         <!-- <item>@integer/news_provider_severity_info_agency</item> -->
