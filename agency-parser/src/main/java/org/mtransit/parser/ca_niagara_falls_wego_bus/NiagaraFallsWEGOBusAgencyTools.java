@@ -32,11 +32,6 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -45,7 +40,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean excludeAgency(@NotNull GAgency gAgency) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String agencyId = gAgency.getAgencyId();
 		if (!agencyId.contains("Niagara Parks Commission WeGo") //
 				&& !agencyId.contains("Niagara Falls Transit") //
@@ -60,7 +55,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean excludeRoute(@NotNull GRoute gRoute) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String agencyId = gRoute.getAgencyIdOrDefault();
 		if (!agencyId.contains("Niagara Parks Commission WeGo") //
 				&& !agencyId.contains("Niagara Falls Transit") //
@@ -84,7 +79,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 			}
 			return KEEP;
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String routeId = gRoute.getRouteId();
 		final String routeLongName = gRoute.getRouteLongNameOrDefault();
 		if (!routeId.contains("WEGO") //
@@ -217,7 +212,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.keepToAndRemoveVia(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -235,7 +230,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	private static final String ZERO_0 = "0";
@@ -249,7 +244,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 	public String getStopCode(@NotNull GStop gStop) {
 		String stopCode = gStop.getStopCode();
 		if (stopCode.isEmpty() || ZERO_0.equals(stopCode)) {
-			//noinspection deprecation
+			//noinspection DiscouragedApi
 			stopCode = gStop.getStopId();
 		}
 		stopCode = STARTS_WITH_WEGO_NF_A00.matcher(stopCode).replaceAll(EMPTY);
@@ -269,7 +264,7 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 	public int getStopId(@NotNull GStop gStop) {
 		String stopCode = gStop.getStopCode();
 		if (stopCode.isEmpty() || ZERO_0.equals(stopCode)) {
-			//noinspection deprecation
+			//noinspection DiscouragedApi
 			stopCode = gStop.getStopId();
 		}
 		stopCode = STARTS_WITH_WEGO_NF_A00.matcher(stopCode).replaceAll(StringUtils.EMPTY);
