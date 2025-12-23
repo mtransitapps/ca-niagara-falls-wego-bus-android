@@ -69,11 +69,10 @@ public class NiagaraFallsWEGOBusAgencyTools extends DefaultAgencyTools {
 				|| agencyId.equals("1")) {
 			//noinspection RedundantIfStatement
 			if (!Arrays.asList(
-					"blue",
-					"green",
+					"blue", "602",
+					"green", "603",
 					"orng", // orange",
-					"red",
-					"redx"
+					"red", "redx"
 			).contains(gRoute.getRouteShortName().toLowerCase(Locale.ENGLISH))) {
 				return EXCLUDE;
 			}
